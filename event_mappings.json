@@ -1,0 +1,956 @@
+[
+  {
+    "canonicalId": "E001",
+    "canonicalTitle": "Will Iraq win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-iraq-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-IRQ",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E002",
+    "canonicalTitle": "Will Congo DR win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-congo-dr-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-COD",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E003",
+    "canonicalTitle": "Will Panama win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-team-z-win-the-2026-fifa-world-cup-316",
+    "kalshiTicker": "KXMENWORLDCUP-26-PAN",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E004",
+    "canonicalTitle": "Will Haiti win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-haiti-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-HTI",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E005",
+    "canonicalTitle": "Will Ivory Coast win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-ivory-coast-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-CIV",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E006",
+    "canonicalTitle": "Will Qatar win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-qatar-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-QAT",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E007",
+    "canonicalTitle": "Will South Africa win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-south-africa-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-RSA",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E008",
+    "canonicalTitle": "Will Cape Verde win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-cape-verde-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-CPV",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E009",
+    "canonicalTitle": "Will Algeria win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-algeria-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-DZA",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E010",
+    "canonicalTitle": "Will Egypt win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-egypt-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-EGY",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E011",
+    "canonicalTitle": "Will Jordan win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-jordan-win-the-2026-fifa-world-cup-233",
+    "kalshiTicker": "KXMENWORLDCUP-26-JOR",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E012",
+    "canonicalTitle": "Will Uzbekistan win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-uzbekistan-win-the-2026-fifa-world-cup-773",
+    "kalshiTicker": "KXMENWORLDCUP-26-UZB",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E013",
+    "canonicalTitle": "Will New Zealand win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-new-zealand-win-the-2026-fifa-world-cup-635",
+    "kalshiTicker": "KXMENWORLDCUP-26-NZL",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E014",
+    "canonicalTitle": "Will the Tunisia win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-tunisia-win-the-2026-fifa-world-cup-165",
+    "kalshiTicker": "KXMENWORLDCUP-26-TN",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E015",
+    "canonicalTitle": "Will the Saudi Arabia win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-saudi-arabia-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-SA",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E016",
+    "canonicalTitle": "Will the Iran win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-iran-win-the-2026-fifa-world-cup-788",
+    "kalshiTicker": "KXMENWORLDCUP-26-IR",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E017",
+    "canonicalTitle": "Will the Scotland win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-scotland-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-SC",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E018",
+    "canonicalTitle": "Will the Paraguay win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-paraguay-win-the-2026-fifa-world-cup-967",
+    "kalshiTicker": "KXMENWORLDCUP-26-PY",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E019",
+    "canonicalTitle": "Will the South Korea win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-south-korea-win-the-2026-fifa-world-cup-485",
+    "kalshiTicker": "KXMENWORLDCUP-26-KR",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E020",
+    "canonicalTitle": "Will the Ghana win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-ghana-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-GH",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E021",
+    "canonicalTitle": "Will the Australia win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-australia-win-the-2026-fifa-world-cup-816",
+    "kalshiTicker": "KXMENWORLDCUP-26-AU",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E022",
+    "canonicalTitle": "Will the Senegal win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-senegal-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-SN",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E023",
+    "canonicalTitle": "Will the Sweden win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-sweden-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-SE",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E024",
+    "canonicalTitle": "Will the Norway win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-norway-win-the-2026-fifa-world-cup-893",
+    "kalshiTicker": "KXMENWORLDCUP-26-NO",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E025",
+    "canonicalTitle": "Will the Mexico win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-mexico-win-the-2026-fifa-world-cup-529",
+    "kalshiTicker": "KXMENWORLDCUP-26-MX",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E026",
+    "canonicalTitle": "Will the Morocco win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-morocco-win-the-2026-fifa-world-cup-464",
+    "kalshiTicker": "KXMENWORLDCUP-26-MA",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E027",
+    "canonicalTitle": "Will the Japan win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-japan-win-the-2026-fifa-world-cup-112",
+    "kalshiTicker": "KXMENWORLDCUP-26-JP",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E028",
+    "canonicalTitle": "Will the Ecuador win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-ecuador-win-the-2026-fifa-world-cup-986",
+    "kalshiTicker": "KXMENWORLDCUP-26-EC",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E029",
+    "canonicalTitle": "Will the Colombia win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-colombia-win-the-2026-fifa-world-cup-734",
+    "kalshiTicker": "KXMENWORLDCUP-26-CO",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E030",
+    "canonicalTitle": "Will the Switzerland win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-switzerland-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-CH",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E031",
+    "canonicalTitle": "Will the Canada win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-canada-win-the-2026-fifa-world-cup-755",
+    "kalshiTicker": "KXMENWORLDCUP-26-CA",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E032",
+    "canonicalTitle": "Will the Austria win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-austria-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-AT",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E033",
+    "canonicalTitle": "Will the Uruguay win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-uruguay-win-the-2026-fifa-world-cup-932",
+    "kalshiTicker": "KXMENWORLDCUP-26-UY",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E034",
+    "canonicalTitle": "Will the USA win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-usa-win-the-2026-fifa-world-cup-467",
+    "kalshiTicker": "KXMENWORLDCUP-26-US",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E035",
+    "canonicalTitle": "Will the Portugal win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-portugal-win-the-2026-fifa-world-cup-912",
+    "kalshiTicker": "KXMENWORLDCUP-26-PT",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E036",
+    "canonicalTitle": "Will the Netherlands win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-netherlands-win-the-2026-fifa-world-cup-739",
+    "kalshiTicker": "KXMENWORLDCUP-26-NL",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E037",
+    "canonicalTitle": "Will the Croatia win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-croatia-win-the-2026-fifa-world-cup",
+    "kalshiTicker": "KXMENWORLDCUP-26-HR",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E038",
+    "canonicalTitle": "Will the England win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-england-win-the-2026-fifa-world-cup-937",
+    "kalshiTicker": "KXMENWORLDCUP-26-GB",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E039",
+    "canonicalTitle": "Will the Germany win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-germany-win-the-2026-fifa-world-cup-467",
+    "kalshiTicker": "KXMENWORLDCUP-26-DE",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E040",
+    "canonicalTitle": "Will the Brazil win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-brazil-win-the-2026-fifa-world-cup-183",
+    "kalshiTicker": "KXMENWORLDCUP-26-BR",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E041",
+    "canonicalTitle": "Will the Belgium win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-belgium-win-the-2026-fifa-world-cup-358",
+    "kalshiTicker": "KXMENWORLDCUP-26-BE",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E042",
+    "canonicalTitle": "Will the Argentina win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-argentina-win-the-2026-fifa-world-cup-245",
+    "kalshiTicker": "KXMENWORLDCUP-26-AR",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E043",
+    "canonicalTitle": "Will the France win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-france-win-the-2026-fifa-world-cup-924",
+    "kalshiTicker": "KXMENWORLDCUP-26-FR",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E044",
+    "canonicalTitle": "Will the Spain win the 2026 FIFA World Cup?",
+    "category": "sports",
+    "polymarketId": "will-spain-win-the-2026-fifa-world-cup-963",
+    "kalshiTicker": "KXMENWORLDCUP-26-ES",
+    "notes": "FIFA World Cup 2026",
+    "resolutionDeadline": "2026-07-19T20:00:00Z"
+  },
+  {
+    "canonicalId": "E045",
+    "canonicalTitle": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?",
+    "category": "sports",
+    "polymarketId": "will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup",
+    "kalshiTicker": "KXNHL-26-VGK",
+    "notes": "NHL 2025-26 Stanley Cup",
+    "resolutionDeadline": "2026-06-23T02:00:00Z"
+  },
+  {
+    "canonicalId": "E046",
+    "canonicalTitle": "Will the Utah Mammoth win the 2026 NHL Stanley Cup?",
+    "category": "sports",
+    "polymarketId": "will-the-utah-mammoth-win-the-2026-nhl-stanley-cup",
+    "kalshiTicker": "KXNHL-26-UTA",
+    "notes": "NHL 2025-26 Stanley Cup",
+    "resolutionDeadline": "2026-06-23T02:00:00Z"
+  },
+  {
+    "canonicalId": "E047",
+    "canonicalTitle": "Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?",
+    "category": "sports",
+    "polymarketId": "will-the-tampa-bay-lightning-win-the-2026-nhl-stanley-cup",
+    "kalshiTicker": "KXNHL-26-TB",
+    "notes": "NHL 2025-26 Stanley Cup",
+    "resolutionDeadline": "2026-06-23T02:00:00Z"
+  },
+  {
+    "canonicalId": "E048",
+    "canonicalTitle": "Will the Pittsburgh Penguins win the 2026 NHL Stanley Cup?",
+    "category": "sports",
+    "polymarketId": "will-the-pittsburgh-penguins-win-the-2026-nhl-stanley-cup",
+    "kalshiTicker": "KXNHL-26-PIT",
+    "notes": "NHL 2025-26 Stanley Cup",
+    "resolutionDeadline": "2026-06-23T02:00:00Z"
+  },
+  {
+    "canonicalId": "E049",
+    "canonicalTitle": "Will the Philadelphia Flyers win the 2026 NHL Stanley Cup?",
+    "category": "sports",
+    "polymarketId": "will-the-philadelphia-flyers-win-the-2026-nhl-stanley-cup",
+    "kalshiTicker": "KXNHL-26-PHI",
+    "notes": "NHL 2025-26 Stanley Cup",
+    "resolutionDeadline": "2026-06-23T02:00:00Z"
+  },
+  {
+    "canonicalId": "E050",
+    "canonicalTitle": "Will the Ottawa Senators win the 2026 NHL Stanley Cup?",
+    "category": "sports",
+    "polymarketId": "will-the-ottawa-senators-win-the-2026-nhl-stanley-cup",
+    "kalshiTicker": "KXNHL-26-OTT",
+    "notes": "NHL 2025-26 Stanley Cup",
+    "resolutionDeadline": "2026-06-23T02:00:00Z"
+  },
+  {
+    "canonicalId": "E051",
+    "canonicalTitle": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?",
+    "category": "sports",
+    "polymarketId": "will-the-minnesota-wild-win-the-2026-nhl-stanley-cup",
+    "kalshiTicker": "KXNHL-26-MIN",
+    "notes": "NHL 2025-26 Stanley Cup",
+    "resolutionDeadline": "2026-06-23T02:00:00Z"
+  },
+  {
+    "canonicalId": "E052",
+    "canonicalTitle": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
+    "category": "sports",
+    "polymarketId": "will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup",
+    "kalshiTicker": "KXNHL-26-LA",
+    "notes": "NHL 2025-26 Stanley Cup",
+    "resolutionDeadline": "2026-06-23T02:00:00Z"
+  },
+  {
+    "canonicalId": "E053",
+    "canonicalTitle": "Will the Edmonton Oilers win the 2026 NHL Stanley Cup?",
+    "category": "sports",
+    "polymarketId": "will-the-edmonton-oilers-win-the-2026-nhl-stanley-cup",
+    "kalshiTicker": "KXNHL-26-EDM",
+    "notes": "NHL 2025-26 Stanley Cup",
+    "resolutionDeadline": "2026-06-23T02:00:00Z"
+  },
+  {
+    "canonicalId": "E054",
+    "canonicalTitle": "Will the Dallas Stars win the 2026 NHL Stanley Cup?",
+    "category": "sports",
+    "polymarketId": "will-the-dallas-stars-win-the-2026-nhl-stanley-cup",
+    "kalshiTicker": "KXNHL-26-DAL",
+    "notes": "NHL 2025-26 Stanley Cup",
+    "resolutionDeadline": "2026-06-23T02:00:00Z"
+  },
+  {
+    "canonicalId": "E055",
+    "canonicalTitle": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?",
+    "category": "sports",
+    "polymarketId": "will-the-colorado-avalanche-win-the-2026-nhl-stanley-cup",
+    "kalshiTicker": "KXNHL-26-COL",
+    "notes": "NHL 2025-26 Stanley Cup",
+    "resolutionDeadline": "2026-06-23T02:00:00Z"
+  },
+  {
+    "canonicalId": "E056",
+    "canonicalTitle": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?",
+    "category": "sports",
+    "polymarketId": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+    "kalshiTicker": "KXNHL-26-CAR",
+    "notes": "NHL 2025-26 Stanley Cup",
+    "resolutionDeadline": "2026-06-23T02:00:00Z"
+  },
+  {
+    "canonicalId": "E057",
+    "canonicalTitle": "Will the Buffalo Sabres win the 2026 NHL Stanley Cup?",
+    "category": "sports",
+    "polymarketId": "will-the-buffalo-sabres-win-the-2026-nhl-stanley-cup",
+    "kalshiTicker": "KXNHL-26-BUF",
+    "notes": "NHL 2025-26 Stanley Cup",
+    "resolutionDeadline": "2026-06-23T02:00:00Z"
+  },
+  {
+    "canonicalId": "E058",
+    "canonicalTitle": "Will the Boston Bruins win the 2026 NHL Stanley Cup?",
+    "category": "sports",
+    "polymarketId": "will-the-boston-bruins-win-the-2026-nhl-stanley-cup",
+    "kalshiTicker": "KXNHL-26-BOS",
+    "notes": "NHL 2025-26 Stanley Cup",
+    "resolutionDeadline": "2026-06-23T02:00:00Z"
+  },
+  {
+    "canonicalId": "E059",
+    "canonicalTitle": "Will the Anaheim Ducks win the 2026 NHL Stanley Cup?",
+    "category": "sports",
+    "polymarketId": "will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup",
+    "kalshiTicker": "KXNHL-26-ANA",
+    "notes": "NHL 2025-26 Stanley Cup",
+    "resolutionDeadline": "2026-06-23T02:00:00Z"
+  },
+  {
+    "canonicalId": "E060",
+    "canonicalTitle": "Will the the Toronto win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-toronto-raptors-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-TOR",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E061",
+    "canonicalTitle": "Will the the San Antonio win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-san-antonio-spurs-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-SAS",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E062",
+    "canonicalTitle": "Will the the Portland win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-portland-trail-blazers-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-POR",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E063",
+    "canonicalTitle": "Will the the Phoenix win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-phoenix-suns-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-PHX",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E064",
+    "canonicalTitle": "Will the the Philadelphia win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-philadelphia-76ers-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-PHI",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E065",
+    "canonicalTitle": "Will the the Orlando win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-orlando-magic-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-ORL",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E066",
+    "canonicalTitle": "Will the the Oklahoma City win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-OKC",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E067",
+    "canonicalTitle": "Will the the New York win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-new-york-knicks-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-NYK",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E068",
+    "canonicalTitle": "Will the the Minnesota win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-minnesota-timberwolves-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-MIN",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E069",
+    "canonicalTitle": "Will the the Los Angeles L win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-los-angeles-lakers-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-LAL",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E070",
+    "canonicalTitle": "Will the the Houston win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-houston-rockets-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-HOU",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E071",
+    "canonicalTitle": "Will the the Golden State win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-golden-state-warriors-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-GSW",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E072",
+    "canonicalTitle": "Will the the Detroit win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-detroit-pistons-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-DET",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E073",
+    "canonicalTitle": "Will the the Denver win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-denver-nuggets-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-DEN",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E074",
+    "canonicalTitle": "Will the the Cleveland win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-cleveland-cavaliers-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-CLE",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E075",
+    "canonicalTitle": "Will the the Charlotte win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-charlotte-hornets-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-CHA",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E076",
+    "canonicalTitle": "Will the the Boston win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-boston-celtics-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-BOS",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E077",
+    "canonicalTitle": "Will the the Atlanta win the 2026 NBA Finals?",
+    "category": "sports",
+    "polymarketId": "will-the-atlanta-hawks-win-the-2026-nba-finals",
+    "kalshiTicker": "KXNBA-26-ATL",
+    "notes": "NBA 2025-26 Finals",
+    "resolutionDeadline": "2026-06-21T02:00:00Z"
+  },
+  {
+    "canonicalId": "E078",
+    "canonicalTitle": "Will Tatsuro Taira be the UFC Flyweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-tatsuro-taira-be-the-ufc-flyweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCFLYWEIGHTTITLE-26-TTAI",
+    "notes": "UFC 2026 Flyweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E079",
+    "canonicalTitle": "Will Manel Kape be the UFC Flyweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-manel-kape-be-the-ufc-flyweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCFLYWEIGHTTITLE-26-MKAP",
+    "notes": "UFC 2026 Flyweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E080",
+    "canonicalTitle": "Will Joshua Van be the UFC Flyweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-joshua-van-be-the-ufc-flyweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCFLYWEIGHTTITLE-26-JVAN",
+    "notes": "UFC 2026 Flyweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E081",
+    "canonicalTitle": "Will Brandon Moreno be the UFC Flyweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-brandon-moreno-be-the-ufc-flyweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCFLYWEIGHTTITLE-26-BMOR",
+    "notes": "UFC 2026 Flyweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E082",
+    "canonicalTitle": "Will Alexandre Pantoja be the UFC Flyweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-alexandre-pantoja-be-the-ufc-flyweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCFLYWEIGHTTITLE-26-APAN",
+    "notes": "UFC 2026 Flyweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E083",
+    "canonicalTitle": "Will Merab Dvalishvili be the UFC Bantamweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-merab-dvalishvili-be-the-ufc-bantamweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCBANTAMWEIGHTTITLE-26-MDVA",
+    "notes": "UFC 2026 Bantamweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E084",
+    "canonicalTitle": "Will Sean O'Malley be the UFC Bantamweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-sean-omalley-be-the-ufc-bantamweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCBANTAMWEIGHTTITLE-26-SOMA",
+    "notes": "UFC 2026 Bantamweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E085",
+    "canonicalTitle": "Will Song Yadong be the UFC Bantamweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-song-yadong-be-the-ufc-bantamweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCBANTAMWEIGHTTITLE-26-SYAD",
+    "notes": "UFC 2026 Bantamweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E086",
+    "canonicalTitle": "Will Lerone Murphy be the UFC Featherweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-lerone-murphy-be-the-ufc-featherweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCFEATHERWEIGHTTITLE-26-LMUR",
+    "notes": "UFC 2026 Featherweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E087",
+    "canonicalTitle": "Will Arnold Allen be the UFC Featherweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-arnold-allen-be-the-ufc-featherweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCFEATHERWEIGHTTITLE-26-AALL",
+    "notes": "UFC 2026 Featherweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E088",
+    "canonicalTitle": "Will Diego Lopes be the UFC Featherweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-diego-lopes-be-the-ufc-featherweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCFEATHERWEIGHTTITLE-26-DLOP",
+    "notes": "UFC 2026 Featherweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E090",
+    "canonicalTitle": "Will Yair Rodriguez be the UFC Featherweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-yair-rodriguez-be-the-ufc-featherweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCFEATHERWEIGHTTITLE-26-YROD",
+    "notes": "UFC 2026 Featherweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E091",
+    "canonicalTitle": "Will Ilia Topuria be the UFC Lightweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-ilia-topuria-be-the-ufc-lightweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCLIGHTWEIGHTTITLE-26-ITOP",
+    "notes": "UFC 2026 Lightweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E092",
+    "canonicalTitle": "Will Justin Gaethje be the UFC Lightweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-justin-gaethje-be-the-ufc-lightweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCLIGHTWEIGHTTITLE-26-JGAE",
+    "notes": "UFC 2026 Lightweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E094",
+    "canonicalTitle": "Will Mateusz Gamrot be the UFC Lightweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-mateusz-gamrot-be-the-ufc-lightweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCLIGHTWEIGHTTITLE-26-MGAM",
+    "notes": "UFC 2026 Lightweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E095",
+    "canonicalTitle": "Will Charles Oliveira be the UFC Lightweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-charles-oliveira-be-the-ufc-lightweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCLIGHTWEIGHTTITLE-26-COLI",
+    "notes": "UFC 2026 Lightweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E096",
+    "canonicalTitle": "Will Shavkat Rakhmonov be the UFC Welterweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-shavkat-rakhmonov-be-the-ufc-welterweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCWELTERWEIGHTTITLE-26-SRAK",
+    "notes": "UFC 2026 Welterweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E097",
+    "canonicalTitle": "Will Kamaru Usman be the UFC Welterweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-kamaru-usman-be-the-ufc-welterweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCWELTERWEIGHTTITLE-26-KUSM",
+    "notes": "UFC 2026 Welterweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E098",
+    "canonicalTitle": "Will Islam Makhachev be the UFC Welterweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-islam-makhachev-be-the-ufc-welterweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCWELTERWEIGHTTITLE-26-IMAK",
+    "notes": "UFC 2026 Welterweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E099",
+    "canonicalTitle": "Will Jack Della Maddalena be the UFC Welterweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-jack-della-maddalena-be-the-ufc-welterweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCWELTERWEIGHTTITLE-26-DMAD",
+    "notes": "UFC 2026 Welterweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E100",
+    "canonicalTitle": "Will Nassourdine Imavov be the UFC Middleweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-nassourdine-imavov-be-the-ufc-middleweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCMIDDLEWEIGHTTITLE-26-NIMA",
+    "notes": "UFC 2026 Middleweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E101",
+    "canonicalTitle": "Will Sean Strickland be the UFC Middleweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-sean-strickland-be-the-ufc-middleweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCMIDDLEWEIGHTTITLE-26-SSTR",
+    "notes": "UFC 2026 Middleweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E102",
+    "canonicalTitle": "Will Israel Adesanya be the UFC Middleweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-israel-adesanya-be-the-ufc-middleweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCMIDDLEWEIGHTTITLE-26-IADE",
+    "notes": "UFC 2026 Middleweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E103",
+    "canonicalTitle": "Will Tom Aspinall be the UFC Heavyweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-tom-aspinall-be-the-ufc-heavyweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCHEAVYWEIGHTTITLE-26-TASP",
+    "notes": "UFC 2026 Heavyweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E104",
+    "canonicalTitle": "Will Sergei Pavlovich be the UFC Heavyweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-sergei-pavlovich-be-the-ufc-heavyweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCHEAVYWEIGHTTITLE-26-SPAV",
+    "notes": "UFC 2026 Heavyweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E105",
+    "canonicalTitle": "Will Jailton Almeida be the UFC Heavyweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-jailton-almeida-be-the-ufc-heavyweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCHEAVYWEIGHTTITLE-26-JALM",
+    "notes": "UFC 2026 Heavyweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E106",
+    "canonicalTitle": "Will Alex Pereira be the UFC Light Heavyweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-alex-pereira-be-the-ufc-light-heavyweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCLHEAVYWEIGHTTITLE-26-APER",
+    "notes": "UFC 2026 Light Heavyweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E107",
+    "canonicalTitle": "Will Magomed Ankalaev be the UFC Light Heavyweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-magomed-ankalaev-be-the-ufc-light-heavyweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCLHEAVYWEIGHTTITLE-26-MANK",
+    "notes": "UFC 2026 Light Heavyweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  },
+  {
+    "canonicalId": "E108",
+    "canonicalTitle": "Will Khalil Rountree Jr. be the UFC Light Heavyweight Champion on December 31, 2026?",
+    "category": "sports",
+    "polymarketId": "will-khalil-rountree-jr-be-the-ufc-light-heavyweight-champion-on-december-31-2026",
+    "kalshiTicker": "KXUFCLHEAVYWEIGHTTITLE-26-KROU",
+    "notes": "UFC 2026 Light Heavyweight",
+    "resolutionDeadline": "2026-12-31T17:00:00Z"
+  }
+]
